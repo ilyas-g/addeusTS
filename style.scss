@@ -1,0 +1,9 @@
+#ball {
+    position: absolute;
+    left: 50%;
+    transform: translate(0, -50%);
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle at 30px 30px, #5cabff, #000);
+    border-radius: 50%;
+}
